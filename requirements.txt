@@ -1,7 +1,10 @@
 # requirements.txt
-streamlit==1.55.0
-streamlit-option-menu
 altair
 pandas
 numpy
+pyarrow
+pillow
+requests
+streamlit-option-menu
+
 # ... other packages
