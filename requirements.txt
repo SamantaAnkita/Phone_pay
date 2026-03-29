@@ -1,10 +1,10 @@
 # requirements.txt
-altair
-pandas
-numpy
-pyarrow
-pillow
-requests
+streamlit==1.38.0
 streamlit-option-menu
-
+altair==5.5.0
+pandas==2.2.3
+numpy==2.1.1
+pyarrow==17.0.0
+pillow==10.4.0
+requests==2.32.3
 # ... other packages
